@@ -48,3 +48,10 @@ margin-top: 2rem;
         margin: 0 0 2rem 0;
     }
 }
+
+@media screen and (max-width: 550px) {
+    .demo2__features-heading h1{
+        font-size: 28px;
+        line-height: 38px;
+    }
+}
